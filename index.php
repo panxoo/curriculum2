@@ -77,7 +77,7 @@
                                 <div class="headline">
                                 	
                                     <h1>Francisco Javier Durán Letelier</h1>
-                                    <p><span>Jefe de Producción</span></p>
+                                    <p><span>chef de Projet</span></p>
                                     
                                 </div><!-- end .headline -->
                                 																
@@ -114,13 +114,13 @@
                         <!-- // Menu // -->
                         <ul class="sf-menu" id="menu">
                             <li>
-                                <a href="#personal-profile">Detalle</a>
+                                <a href="#personal-profile">Général</a>
                             </li>
                             <li>
-                                <a href="#work-experience">Experiencia</a>
+                                <a href="#work-experience">Experience</a>
                             </li>
                             <li>
-                                <a href="#education">Educación</a>
+                                <a href="#education">Formation</a>
                             </li>
                             
                             <li>
@@ -130,7 +130,7 @@
                                 <a href="#portfolio">Portfolio</a>
                             </li>
                             <li>
-                                <a href="#contact">Contacto</a>
+                                <a href="#contact">Contact</a>
                             </li>
                         </ul>
     
@@ -153,8 +153,8 @@
                         
                         <div class="headline">
                             
-                            <p><span>¿Quien soy?</span></p>
-                            <h1>Detalle</h1>
+                            <p><span>Qui suis_je?</span></p>
+                            <h1>Détail</h1>
                             
                         </div><!-- end .headline -->
                         
@@ -170,11 +170,11 @@
                     <div class="span4">
                     	
                         <ul class="personal-details">
-                        	<li>Nombre: Francisco Javier Durán Letelier</li>
-                            <li>Fecha nacimiento: 20 Julio 1988</li>
-                            <li>Nacionalidad: Chilena</li>
-                            <li>Dirección: Jose Domingo Cañas 1986, Ñuñoa, Santiago</li>
-                            <li>Telefono: (569) - 50611330</li>
+                        	<li>Nom: Durán Letelier Francisco Javier</li>
+                            <li>Date de naissance: 20 Juillet 1988</li>
+                            <li>Nationalité: Chilien</li>
+                            <li>Address: 15 rue Leon Blum, Villeurbanne</li>
+                            <li>Téléphone: 0663783968</li>
                             <li>
                             	Email: 
                                 <a href="mailto:fco.dl@hotmail.cl">Fco.dl@hotmail.cl</a>
@@ -184,7 +184,7 @@
                     </div><!-- end .span4 -->
                     <div class="span5">
                     	
-                        <h3 class="text-uppercase">Perfil profesional</h3>
+                        <h3 class="text-uppercase">Profil professionnel</h3>
                         
                         <p>Persistente, creativo y eficaz al momento de enfrentar problemas, buen manejo de relaciones interpersonales y de equipos de trabajo, enfrento con gran interés los desafíos, retos y metas que se me puedan presentar, adquiriendo así mayor experiencia en mi desarrollo laboral. </p> 
 
