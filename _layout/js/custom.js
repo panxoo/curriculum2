@@ -161,7 +161,7 @@
 				$t.addClass("already-animated");
 				$t.animate({
 					width: $t.attr("data-width") + "%"
-				}, 2000);
+				}, 100);
 			}
 			
 		});
