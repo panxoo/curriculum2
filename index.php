@@ -186,7 +186,7 @@
                     	
                         <h3 class="text-uppercase">Profil professionnel</h3>
                         
-                        <p>Persistente, creativo y eficaz al momento de enfrentar problemas, buen manejo de relaciones interpersonales y de equipos de trabajo, enfrento con gran interés los desafíos, retos y metas que se me puedan presentar, adquiriendo así mayor experiencia en mi desarrollo laboral. </p> 
+                        <p>Persévérante, créative et efficace en résoudre des problèmes, bonne gestion des relations interpersonnelles et des équipes de travail, je fais face avec beaucoup d'intérêt aux défis et objectifs qui me peuvent présenter, acquérant ainsi plus d'expérience dans mon développement de travail. </p> 
 
 						 
                     </div><!-- end .span5 -->
@@ -201,8 +201,8 @@
                         
                         <div class="headline">
                             
-                            <p><span>Mis antecedentes profesionales</span></p>
-                            <h1>Experiencia Profesional</h1>
+                            <p><span>Mes données professionnelles</span></p>
+                            <h1>Experience</h1>
                             
                         </div><!-- end .headline -->
                         
@@ -218,15 +218,15 @@
                             <h1>
                             	<span>
                                 	2016
-                                    <small>Mayo</small>
+                                    <small>Mayo/small>
                                 </span>
                                 -
-                                <span>Presente</span>
+                                <span>Maintenant</span>
                             </h1>
                             
                             
                             <h3>Anticipa S.A.</h3>
-                            <p>Jefe Producción</p>
+                            <p>Chef de Project</p>
                             
                             
                         </div><!-- end .cv-section-title -->
@@ -236,18 +236,16 @@
                     	
                         <div class="cv-item">
                         	
-                            <h3 class="text-uppercase">Descripción Trabajo</h3>
+                            <h3 class="text-uppercase">Description du travail</h3>
                             
                             <p> 
-								Actualmente me desempeño como jefe de producción para proyecto de sistema de gestión de 
-								siniestros para agrupaciones de seguros, el cual se implementó en empresa peruana 
-								denominada APESEG “Asociación Peruana de Empresas de Seguros”, lo que gestionamos desde 
-								Chile.
+                                Actuellement je travaille comme chef de projet pour un projet de système de gestion des sinistres 
+                                pour les groupes d'assurance au Pérou, qui a été mis en œuvre dans une société péruvienne appelée 
+                                APESEG "Association péruvienne des compagnies d'assurance", que nous gérons depuis le Chili.
 							</p>
 							<p>
-								Mis principales funciones corresponden al análisis y gestión, en la resolución de 
-								requerimientos e incidencias que pudiesen surgir para el servicio del sistema implementado.
-
+                                Mes fonctions principales correspondent à l'analyse et à la gestion, à la résolution des besoins et des incidents pouvant 
+                                survenir pour le service du système mis en place.
                             </p>
                             
                            
@@ -267,12 +265,12 @@
                             <h1>
                             	<span>
                                 	2015
-                                    <small>Julio</small>
+                                    <small>Juillet</small>
                                 </span>
                                 -
                                 <span>
                                 	2016
-                                    <small>Mayo</small>
+                                    <small>May</small>
                                 </span>
                             </h1>
                             
@@ -280,7 +278,7 @@
                             <h3>GALVEZ Y DONOSO INGENIERIA Y PROYECTOS Ltda.</h3>
                             
                             <p>
-                            	Jefe de Proyecto Freelance <br>
+                            	Chef de project Freelance <br>
                             </p>
                             
                         </div><!-- end .cv-section-title -->
@@ -290,26 +288,10 @@
                     	
                         <div class="cv-item">
                         	
-                            <h3 class="text-uppercase">Descripción Trabajo</h3>
+                            <h3 class="text-uppercase">Description du travail</h3>
                             
                             <p> 
-								Me desempeñé como analista de producción en proyecto de sistema de gestión de siniestros 
-								para agrupaciones de seguros, el cual se implementó en empresa peruana denominada APESEG 
-								“Asociación Peruana de Empresas de Seguros”, por lo que me radiqué en Perú por un periodo 
-								de 10 meses prestando servicios en sus instalaciones. Una vez finalizado dicho periodo el 
-								servicio se continúo desde Chile. 
-
-							</p> 
-							<p> 						
-								Mis principales funciones correspondían al análisis, resolución de los requerimientos y 
-								problemas que pudiesen surgir entre los analistas y el sistema, para la realización de 
-								estas tareas se utilizaba principalmente comandos SQL en motor de base de datos SQL Server.
-
-                            </p>
-                            <p>
-								Además trabaje en el levantamiento y desarrollo de procesos de trabajo para servicio de 
-								simetría de ambientes de sistemas, para empresa REDBANC “Empresa a cargo de administrar la 
-								Red Bancaria Interconectada de Chile”.  
+								
                            </p>
                             
                         </div><!-- end .cv-item -->
@@ -327,12 +309,12 @@
                             <h1>
                             	<span>
                                 	2014
-                                    <small>Marzo</small>
+                                    <small>Mars</small>
                                 </span>
                                 -
                                 <span>
                                 	2015
-                                    <small>Julio</small>
+                                    <small>Juillet</small>
                                 </span>
                             </h1>
                             
@@ -340,7 +322,7 @@
                             <h3>Anticipa S.A.</h3>
                             
                             <p>
-                            	Analista de Producción <br>
+                                Analyste de Production <br>
                             </p>
                             
                         </div><!-- end .cv-section-title -->
@@ -350,26 +332,24 @@
                     	
                         <div class="cv-item">
                         	
-                            <h3 class="text-uppercase">Descripción Trabajo</h3>
+                            <h3 class="text-uppercase">Description du travail</h3>
                             
                             <p> 
-								Me desempeñé como analista de producción en proyecto de sistema de gestión de siniestros 
-								para agrupaciones de seguros, el cual se implementó en empresa peruana denominada APESEG 
-								“Asociación Peruana de Empresas de Seguros”, por lo que me radiqué en Perú por un periodo 
-								de 10 meses prestando servicios en sus instalaciones. Una vez finalizado dicho periodo el 
-								servicio se continúo desde Chile. 
+                                J'ai travaillé comme analyste de production dans un projet de système de gestion des sinistres 
+                                pour des groupes d'assurance au Pérou, qui a été mis en œuvre dans une société péruvienne appelée 
+                                APESEG "Association péruvienne des compagnies d'assurance", pendant 10 mois j'ai vécu au Pérou 
+                                pour mettre en place le service. Après cette période, le service chilien a continué. 
 
 							</p> 
 							<p> 						
-								Mis principales funciones correspondían al análisis, resolución de los requerimientos y 
-								problemas que pudiesen surgir entre los analistas y el sistema, para la realización de 
-								estas tareas se utilizaba principalmente comandos SQL en motor de base de datos SQL Server.
+                                Mes principales fonctions correspondaient à l'analyse, la résolution des besoins et des problèmes 
+                                qui pouvaient survenir entre les analystes et le système. Pour faites les tâches, j'ai travaillé 
+                                avec les commandes SQL utilisées dans le moteur de base de données SQL Server.
 
                             </p>
                             <p>
-								Además trabaje en el levantamiento y desarrollo de procesos de trabajo para servicio de 
-								simetría de ambientes de sistemas, para empresa REDBANC “Empresa a cargo de administrar la 
-								Red Bancaria Interconectada de Chile”.  
+                                Aussi, J'ai travaillé dans créer un service de vérification d'homologation de services système, pour 
+                                la société REDBANC "Société en charge de la gestion du réseau bancaire interconnecté du Chili".    
                            </p>
                             
                         </div><!-- end .cv-item -->
@@ -408,7 +388,7 @@
                     	
                         <div class="cv-item">
                         	
-                            <h3 class="text-uppercase">Descripción Trabajo</h3>
+                            <h3 class="text-uppercase">Description du travail</h3>
                             
                             <p>
 							Preste servicios en el departamento TI de la empresa. Mis principales funciones estaban 
@@ -457,7 +437,7 @@
                     	
                         <div class="cv-item">
                         	
-                            <h3 class="text-uppercase">Descripción Trabajo</h3>
+                            <h3 class="text-uppercase">Description du travail</h3>
                             
                             <p>
 							Practica finalizada de Ingeniería en informática en la empresa Lebox Ltda, desempeñando mis 
