@@ -168,7 +168,7 @@
 	p { margin-bottom: 20px; }
 	em { font-style: italic; }
 	strong { font-weight: bold; }
-	small { font-size: 100%; }
+	small { font-size: 60%; }
 	
 	sub { 
 		vertical-align: sub; 
