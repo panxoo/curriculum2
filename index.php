@@ -197,7 +197,7 @@
             <div id="work-experience">
             	
                 <div class="row">
-                    <div class="span12 text-center">
+                    <div class="span12 text-center"> 
                         
                         <div class="headline">
                             
