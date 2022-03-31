@@ -218,7 +218,7 @@
                             <h1>
                             	<span>
                                 	2016
-                                    <small>Mayo/small>
+                                    <small>Mayo</small>
                                 </span>
                                 -
                                 <span>Maintenant</span>
